@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+console.log('@neos21');
+console.log('http://neo.s21.xrea.com/');
