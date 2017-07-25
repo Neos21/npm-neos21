@@ -1,5 +1,5 @@
 {
-  "name": "@neos21",
+  "name": "@neos21/neos21",
   "version": "1.0.0",
   "description": "npm package example",
   "main": "index.js",
