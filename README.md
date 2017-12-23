@@ -7,8 +7,8 @@ npm package example
 
 [Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
 
-- [GitHub - ccc](https://github.com/Neos21GitHub/npm-neos21)
-- [npm - @neos21/ccc](https://www.npmjs.com/package/@neos21/neos21)
+- [GitHub - npm-neos21](https://github.com/Neos21GitHub/npm-neos21)
+- [npm - @neos21/neos21](https://www.npmjs.com/package/@neos21/neos21)
 
 
 ## Links
