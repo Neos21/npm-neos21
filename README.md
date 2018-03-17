@@ -7,7 +7,7 @@ npm package example
 
 [Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
 
-- [GitHub - npm-neos21](https://github.com/Neos21GitHub/npm-neos21)
+- [GitHub - npm-neos21](https://github.com/Neos21/npm-neos21)
 - [npm - @neos21/neos21](https://www.npmjs.com/package/@neos21/neos21)
 
 
@@ -18,4 +18,4 @@ npm package example
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
 - [Bit-Archer](http://bit-archer.hatenablog.com/)
-- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
+- [GitHub - Neos21](https://github.com/Neos21/)

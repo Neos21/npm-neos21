@@ -1,17 +1,17 @@
 {
   "name": "@neos21/neos21",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package example",
   "main": "index.js",
   "bin": "bin/neos21",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neos21GitHub/npm-neos21.git"
+    "url": "git+https://github.com/Neos21/npm-neos21.git"
   },
   "author": "Neos21 <neos21@gmail.com> (http://neo.s21.xrea.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neos21GitHub/npm-neos21/issues"
+    "url": "https://github.com/Neos21/npm-neos21/issues"
   },
-  "homepage": "https://github.com/Neos21GitHub/npm-neos21#readme"
+  "homepage": "https://github.com/Neos21/npm-neos21#readme"
 }
