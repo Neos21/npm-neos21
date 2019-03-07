@@ -1,6 +1,6 @@
 {
   "name": "@neos21/neos21",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm package example",
   "main": "index.js",
   "bin": "bin/neos21",
