@@ -1,6 +1,21 @@
-# @neos21/neos21
+# npm-neos21 : @neos21/neos21
+
+[![NPM Version](https://img.shields.io/npm/v/@neos21/neos21.svg)](https://www.npmjs.com/package/@neos21/neos21)
 
 npm package example
+
+
+## Usage
+
+```sh
+$ npm install -g @neos21/neos21
+$ neos21
+```
+
+```javascript
+const Neos21 = require('@neos21/neos21');
+Neos21();
+```
 
 
 ## Author

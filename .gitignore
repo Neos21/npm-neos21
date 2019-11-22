@@ -1,6 +1,6 @@
 .DS_Store
+Thumbs.db
 
-.npmrc
-npm-debug.log*
+*.log
 
 node_modules/

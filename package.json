@@ -1,17 +1,23 @@
 {
   "name": "@neos21/neos21",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "npm package example",
-  "main": "index.js",
-  "bin": "bin/neos21",
+  "main": "main.js",
+  "bin": {
+    "neos21": "cli.js"
+  },
+  "author": "Neos21 <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/npm-neos21#readme",
+  "bugs": {
+    "url": "https://github.com/Neos21/npm-neos21/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neos21/npm-neos21.git"
   },
-  "author": "Neos21 <neos21@gmail.com> (http://neo.s21.xrea.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Neos21/npm-neos21/issues"
-  },
-  "homepage": "https://github.com/Neos21/npm-neos21#readme"
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
 }
