@@ -20,7 +20,7 @@ Neos21();
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - npm-neos21](https://github.com/Neos21/npm-neos21)
 - [npm - @neos21/neos21](https://www.npmjs.com/package/@neos21/neos21)
