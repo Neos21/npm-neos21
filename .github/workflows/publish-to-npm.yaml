@@ -21,7 +21,6 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
       - name: Can npm Publish
         run : |
-          npm install can-npm-publish
           npx can-npm-publish --verbose
         env :
           NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
