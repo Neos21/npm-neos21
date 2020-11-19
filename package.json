@@ -6,7 +6,7 @@
   "bin": {
     "neos21": "cli.js"
   },
-  "author": "Neos21 <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "author": "Neos21 <neos21@gmail.com> (https://neos21.net/)",
   "license": "MIT",
   "homepage": "https://github.com/Neos21/npm-neos21#readme",
   "bugs": {
